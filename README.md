@@ -1,2 +1,3 @@
 
-Projeto muito simples de uma carta que pode ser virada ao clicar em um botão.  
+ ## Flip card effect
+ Just a card flipping effect (?)
